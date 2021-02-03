@@ -3,10 +3,10 @@
   "name": "har-validator",
   "description": "Extremely fast HTTP Archive (HAR) validator using JSON Schema",
   "author": "Ahmad Nassri <ahmad@ahmadnassri.com> (https://www.ahmadnassri.com/)",
-  "homepage": "https://github.com/ahmadnassri/node-har-validator",
+  "homepage": "https://github.com/wekan/node-har-validator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ahmadnassri/node-har-validator.git"
+    "url": "https://github.com/wekan/node-har-validator.git"
   },
   "license": "MIT",
   "main": "lib/promise.js",
@@ -26,7 +26,7 @@
     "lib"
   ],
   "bugs": {
-    "url": "https://github.com/ahmadnassri/node-har-validator/issues"
+    "url": "https://github.com/wekan/node-har-validator/issues"
   },
   "scripts": {
     "lint": "npx run-p lint:*",
